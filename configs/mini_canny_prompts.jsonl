@@ -1,0 +1,19 @@
+{"image": "test_imgs/bird.png", "prompt": "a small bird standing on a branch, natural colors, detailed feathers"}
+{"image": "test_imgs/dog.png", "prompt": "a dog sitting indoors, soft lighting, realistic photo"}
+{"image": "test_imgs/dog2.png", "prompt": "a dog in a room, realistic texture, warm indoor light"}
+{"image": "test_imgs/room.png", "prompt": "a clean bedroom interior, realistic furniture, soft daylight"}
+{"image": "test_imgs/building.png", "prompt": "an urban building facade, realistic architecture photo"}
+{"image": "test_imgs/building2.png", "prompt": "a modern building exterior, straight lines, daylight"}
+{"image": "test_imgs/house.png", "prompt": "a house near trees, realistic outdoor scene, daylight"}
+{"image": "test_imgs/bag.png", "prompt": "a handbag product photo, clean background, detailed material"}
+{"image": "test_imgs/shose.png", "prompt": "a pair of shoes, product photo, clean background"}
+{"image": "test_imgs/toy.png", "prompt": "a cute toy figure, realistic object photo, detailed surface"}
+{"image": "test_imgs/cute_robot.png", "prompt": "a cute robot character, polished 3d render style"}
+{"image": "test_imgs/cyber.png", "prompt": "a cyberpunk robot portrait, neon lighting, detailed armor"}
+{"image": "test_imgs/old.png", "prompt": "an old man portrait, oil painting style, expressive face"}
+{"image": "test_imgs/man.png", "prompt": "a man portrait, realistic lighting, detailed face"}
+{"image": "test_imgs/boy.png", "prompt": "a boy standing outdoors, realistic photo, natural light"}
+{"image": "test_imgs/pose1.png", "prompt": "a person posing, full body photo, realistic clothing"}
+{"image": "test_imgs/pose2.png", "prompt": "a person in a dynamic pose, full body photo, realistic lighting"}
+{"image": "test_imgs/user_1.png", "prompt": "a hand drawn object sketch transformed into a clean image"}
+{"image": "test_imgs/user_3.png", "prompt": "a simple user sketch transformed into a detailed image"}

@@ -42,6 +42,20 @@ python gradio_hed2image.py
 The application launches a Gradio interface and listens on `0.0.0.0`, which makes
 it usable through a forwarded server port.
 
+## Mini Fine-Tuning Task
+
+This repo now includes a small Canny-edge fine-tuning task for demonstrating a
+complete ControlNet training loop:
+
+```bash
+python scripts/prepare_mini_canny_dataset.py --overwrite
+python train_mini_canny.py --max-steps 20
+python scripts/infer_mini_canny.py --checkpoint training/mini_canny_runs/checkpoints/last.ckpt
+```
+
+See [docs/mini_canny_training.md](docs/mini_canny_training.md) for the full
+dataset, training, checkpointing, and sampling workflow.
+
 ## Upstream ControlNet README
 
 # News: A nightly version of ControlNet 1.1 is released!
